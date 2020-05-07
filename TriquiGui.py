@@ -45,7 +45,7 @@ def WaysToWin(String) : #Space complexity O(1), time complexity O(1)
 
                 break #Space complexity O(1), time complexity O(1)
 
-            elif row == 3 : #Space complexity O(1), time complexity O(1)
+            elif row == 2 : #Space complexity O(1), time complexity O(1)
 
                 return True #Space complexity O(1), time complexity O(1)
 
